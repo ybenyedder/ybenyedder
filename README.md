@@ -1,4 +1,4 @@
-# ⚡ Bienvenue sur le profil de Volt
+# Bienvenue sur le profil de Volt
 
 ### À propos de moi
 Je suis un développeur passionné spécialisé dans la rétro-ingénierie WebGL, l'optimisation de performances et la sécurité. 
