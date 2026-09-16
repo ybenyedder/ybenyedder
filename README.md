@@ -1,7 +1,7 @@
 # Bienvenue sur le profil de Volt
 
 ### À propos de moi 
-J'ai actuellement 15ans je suis actuellement au lycée et j'ai créé une extension qui s'appelle volt extension avec plus de 50k téléchargement 
+J'ai actuellement 16ans je suis actuellement au lycée et j'ai créé une extension qui s'appelle volt extension avec plus de 50k téléchargement 
 
 ### Mes Outils & Technologies
 * **Cœur de métier :** JavaScript, Chrome Extensions (Manifest V3), Service Workers
