@@ -39,38 +39,38 @@
 
 <br/>
 
-### ⚡ Featured Work
+### Featured Work
 
 > **Volt Extension** — Chrome Manifest V3 toolkit (**50k+ downloads**) with async injection, heuristic monitoring, realtime chat & WebGL tooling (**9.1/10** security & architecture audit).
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/auralis"><b>🎵 auralis</b></a><br/>
+      <a href="https://github.com/ybenyedder/auralis"><b>auralis</b></a><br/>
       <sub>Self-hosted, local-first music & karaoke platform across web, desktop & Android.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/flix"><b>🎬 flix</b></a><br/>
+      <a href="https://github.com/ybenyedder/flix"><b>flix</b></a><br/>
       <sub>100% offline self-hosted media server for web, desktop & Android TV.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/freeboard"><b>⌨️ freeboard</b></a><br/>
-      <sub>100% offline Android keyboard + AES-256-GCM encrypted Android↔Linux clipboard.</sub>
+      <a href="https://github.com/ybenyedder/freeboard"><b>freeboard</b></a><br/>
+      <sub>100% offline Android keyboard + AES-256-GCM encrypted Android-Linux clipboard.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/SensorGuard"><b>🛡️ SensorGuard</b></a><br/>
+      <a href="https://github.com/ybenyedder/SensorGuard"><b>SensorGuard</b></a><br/>
       <sub>System-level Android camera & microphone blocker without root.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/LLMProvider"><b>🧠 LLMProvider</b></a><br/>
+      <a href="https://github.com/ybenyedder/LLMProvider"><b>LLMProvider</b></a><br/>
       <sub>On-device Android LLM provider service powered by <code>llama.cpp</code> (C++ / JNI).</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ybenyedder/volt-maps"><b>🌐 volt-maps</b></a><br/>
+      <a href="https://github.com/ybenyedder/volt-maps"><b>volt-maps</b></a><br/>
       <sub>100% local offline mirror of the Reborn WebGL player — open source, zero telemetry.</sub>
     </td>
   </tr>
@@ -78,27 +78,26 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### Most Used Languages
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ybenyedder&show_icons=true&theme=tokyonight&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ybenyedder&layout=compact&theme=tokyonight&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ybenyedder&layout=compact&theme=tokyonight&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ybenyedder/ybenyedder/output/contrib.svg" alt="contribution graph" />
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=ffffff" alt="dev quote" />
 </p>
 
-### 🌐 Find me
+### Find me
 <p align="center">
   <a href="https://github.com/ybenyedder"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F59E0B" alt="GitHub" /></a>
   <a href="https://www.tiktok.com/@trueravyn"><img src="https://img.shields.io/badge/TikTok-0D1117?style=flat-square&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
 </p>
 
 ---
-<p align="center"><i>⚡ From <a href="https://github.com/ybenyedder">Volt</a> · <a href="https://github.com/ybenyedder?tab=repositories">ybenyedder</a></i></p>
+<p align="center"><i>From <a href="https://github.com/ybenyedder">Volt</a> · <a href="https://github.com/ybenyedder?tab=repositories">ybenyedder</a></i></p>
